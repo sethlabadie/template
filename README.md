@@ -1,6 +1,7 @@
-<!--
+<!---
 test
--->
+--->
+[comment]: # (This is the most platform independent comment)
 
 <p align="center">
     <a href="https://www.toptal.com/developers/gitignore">
