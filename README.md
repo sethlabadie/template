@@ -40,6 +40,42 @@ test
 
 [![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
+<p align="center">
+  <img src="static/assets/images/logo-gh.svg" width="350">
+</p>
+
+<p align="center">
+  <img src="https://badges.fw-web.space/github/license/muety/wakapi">
+  <a href="https://liberapay.com/muety/"><img src="https://badges.fw-web.space/liberapay/receives/muety.svg?logo=liberapay"></a>
+  <img src="https://wakapi.dev/api/badge/n1try/interval:any/project:wakapi?label=wakapi">
+  <img src="https://badges.fw-web.space/github/languages/code-size/muety/wakapi">
+  <a href="https://goreportcard.com/report/github.com/muety/wakapi"><img src="https://goreportcard.com/badge/github.com/muety/wakapi"></a>
+  <a href="https://sonarcloud.io/dashboard?id=muety_wakapi"><img src="https://sonarcloud.io/api/project_badges/measure?project=muety_wakapi&metric=ncloc"></a>
+</p>
+
+<h3 align="center">A minimalist, self-hosted WakaTime-compatible backend for coding statistics.</h3>
+
+<div align="center">
+  <h3>
+    <a href="https://wakapi.dev">Website</a>
+    <span> | </span>
+    <a href="#-features">Features</a>
+    <span> | </span>
+    <a href="#%EF%B8%8F-how-to-use">How to use</a>
+    <span> | </span>
+    <a href="https://github.com/muety/wakapi/issues">Issues</a>
+    <span> | </span>
+    <a href="https://github.com/muety">Contact</a>
+  </h3>
+</div>
+
+<p align="center">
+  <img src="static/assets/images/screenshot.webp" width="500px">
+</p>
+
+Installation instructions can be found below and in the [Wiki](https://github.com/muety/wakapi/wiki).
+
+
 
 ## About
 
