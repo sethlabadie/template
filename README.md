@@ -38,6 +38,7 @@ test
   </a>
 </p>
 
+[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
 
 ## About
